@@ -46,3 +46,8 @@ Increase investment in top-performing product categories.
 
 Analyze regional sales strategies for underperforming locations such as New York.
 
+DASHBOARD
+
+<a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/TIME%20FRAME.png">"TIMEFRAME"</a>
+
+DA
