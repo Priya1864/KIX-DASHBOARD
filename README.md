@@ -50,4 +50,4 @@ DASHBOARD
 
 <a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/TIME%20FRAME.png">"TIMEFRAME"</a>
 
-DA
+<a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/STORE.png">"STORE"</a>
