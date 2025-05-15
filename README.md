@@ -51,3 +51,5 @@ DASHBOARD
 <a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/TIME%20FRAME.png">"TIMEFRAME"</a>
 
 <a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/STORE.png">"STORE"</a>
+
+<a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/PROFIT%20VIEW.png">"PROFIT VIEW"</a>
