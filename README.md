@@ -1,4 +1,4 @@
-Objectives:
+# Objectives:
 
 Analyze sales performance, profitability, and customer behavior using Excel dashboards.
 
@@ -8,7 +8,7 @@ Identify high and low performing products, regions, and customer segments.
 
 Deliver actionable insights through visual storytelling for better decision-making.
 
-Key Insights:
+# Key Insights:
 
 Total profit stands at $2.3M with a strong profit margin of 42.18%.
 
@@ -24,7 +24,7 @@ Return and refund rates are both over 8%, indicating potential customer dissatis
 
 Several stores, such as Novak PLC and Berg-Trujillo, are underperforming against their targets.
 
-Conclusions:
+# Conclusions:
 
 The business is profitable with a steady upward trend in key months.
 
@@ -34,7 +34,7 @@ There is inconsistency in store performance, with some stores far below their ta
 
 Older age groups, especially 51+, generate the highest average revenue per customer.
 
-Recommendations:
+# Recommendations:
 
 Target marketing and promotions toward weekdays and customers aged 51 and above.
 
@@ -46,7 +46,7 @@ Increase investment in top-performing product categories.
 
 Analyze regional sales strategies for underperforming locations such as New York.
 
-DASHBOARD
+# DASHBOARD
 
 <a href="https://github.com/Priya1864/KIX-DASHBOARD/blob/main/TIME%20FRAME.png">"TIMEFRAME"</a>
 
